@@ -10,3 +10,16 @@ Taller de HTML, CSS y Javascript
 
 `<title></title>` Tag para darle nombre a nuestra página, lo que se ponga aquí se verá como el nombre en la pestaña de nuestro navegador.
 
+`<body></body>` El cuerpo de nuestro documento, aquí va el contenido.
+
+`<h1></h1>` Se usa para títulos (heading) puedes usarla de 1 a 6, entre mayor sea el número, menor la importancia del título. **Regla**: Sólo usamos un H1 en toda la página para nuestro título principal y más importante.
+
+`<ul></ul>` Una lista sin numeración (Unordered List)
+
+`<ol></ol>` Una lista con numeración (Ordered List)
+
+`<li></li>` (List Item) Se usa para indicar cada elemento de la lista
+
+
+
+
