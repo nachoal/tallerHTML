@@ -1,7 +1,7 @@
 # tallerHTML
 Taller de HTML, CSS y Javascript
 
-###Crear un nuevo documento en Sublime
+###Tags usadas en HTML
 `<!DOCTYPE html>` esta tag no es de HTML pero la tenemos que usar para que el navegador sepa que tipo de documento esperar.
 
 `<html></html>` Tag que indica que todo lo que está adentro de ella es HTML.
@@ -20,6 +20,14 @@ Taller de HTML, CSS y Javascript
 
 `<li></li>` (List Item) Se usa para indicar cada elemento de la lista
 
+`<img src="" alt="">` Es para insertar una imagen dentro del documento y es la primer tag que vemos que se cierra sola (self closing)
+
+`<li></li>` (List Item) Se usa para indicar cada elemento de la lista
+
+
+`<div></div>` Significa division y es para darle formato o estilo a un bloque (block) del documento
+
+`<span></span>` No tiene un significado en específico pero se usa como div, para dar formato pero en una línea (inline) del documento
 
 
 
