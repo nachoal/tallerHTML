@@ -40,3 +40,21 @@ Hay 3 formas de implementarlo:
 3.Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` 
 
 
+#####Selectores
+
+En css puedes elegir con selector al elemento al que quieres aplicarle el estilo:
+
+Selectores de elemento: Se usa el nombre de la tag de HTML y se aplicará el estilo a todos los elementos con esa tag, ejemplo: 
+
+`h1{ color:red;  } `
+
+Selectores de clase: Se usa un punto y se aplicará a todo lo que esté adentro de esa clase, ejemplo:
+
+`.container{ width:500px; }`
+
+Selectores de id: Se usa un signo de gato y se aplicará al id, ejemplo: 
+
+`#importante{font-size: 60px;}`
+
+Las clases se pueden repetir en todo el documento, por cada id solo puede haber un elemento. 
+
