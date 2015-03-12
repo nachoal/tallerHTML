@@ -33,11 +33,11 @@ CSS (Cascading Style Sheets) es el lenguaje que usamos para darle estilo a nuest
 
 Hay 3 formas de implementarlo:
 
-1.Usando el atributo style en nuestros elementos dentro del HTML
+1.Usando el atributo style en nuestros elementos dentro del HTML (inline)
 
-2.Haciendo uso de la tag `<style></style>` dentro de nuestro `<head></head>` e insertando nuestros estilos ahí
+2.Haciendo uso de la tag `<style></style>` dentro de nuestro `<head></head>` e insertando nuestros estilos ahí (internal)
 
-3.Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` 
+3.Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` (External)
 
 
 #####Selectores
@@ -102,6 +102,27 @@ Para separar los elementos, centrarlos y acomodarlos podemos usar la propiedad M
 **Margin** es el espacio que dejamos **afuera** del elemento
 
 **Padding** es el espacio que dejamos **adentro** 
+
+Margin tiene 4 parámetros (top, right, bottom, left) es decir: 
+
+`.contanier{ margin-top: 20px; margin-right: 40px; margin-bottom: 20px; margin-left: 40px;  } `
+
+Lo podemos acortar usando:
+
+`.contanier{ margin: 20 40 20 40  } `
+
+mucho más simple, ¿no?
+
+Para centrar un contenido con tamaño definido dentro de la página podemos usar margin:
+
+`.contanier{ width: 120px; margin: 0 auto;  } `
+
+
+
+
+
+
+
 
 
 
