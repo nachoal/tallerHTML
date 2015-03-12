@@ -6,4 +6,7 @@ Taller de HTML, CSS y Javascript
 
 `<html></html>` Tag que indica que todo lo que está adentro de ella es HTML.
 
-`<head></head>` Aquí ponemos detalles que no se ven en la página (links, scripts, estilos, título) 
+`<head></head>` Aquí ponemos detalles que no se ven en la página (links, scripts, estilos, título)
+
+`<title></title>` Tag para darle nombre a nuestra página, lo que se ponga aquí se verá como el nombre en la pestaña de nuestro navegador.
+
