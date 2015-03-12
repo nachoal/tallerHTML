@@ -32,8 +32,11 @@ Taller de HTML, CSS y Javascript
 CSS (Cascading Style Sheets) es el lenguaje que usamos para darle estilo a nuestro documento y tiene un formato un poco diferente a HTML pero lo podemos entender facilmente. 
 
 Hay 3 formas de implementarlo:
+
 *Usando el atributo style en nuestros elementos dentro del HTML
+
 *Haciendo uso de la tag `<style></style>` dentro de nuestro `<head></head>` e insertando nuestros estilos ahí
+
 *Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` 
 
 
