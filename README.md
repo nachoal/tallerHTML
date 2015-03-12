@@ -56,5 +56,44 @@ Selectores de id: Se usa un signo de gato y se aplicará al id, ejemplo:
 
 `#importante{font-size: 60px;}`
 
-Las clases se pueden repetir en todo el documento, por cada id solo puede haber un elemento. 
+Las clases se pueden repetir en todo el documento, en cambio, por cada id solo puede haber un elemento.
+
+#####Colores
+
+Podemos cambiar los colores del documento de diferentes maneras
+
+1.Con la palabra (Que nos limita en nuestra elección): 
+
+ `h1{ color:red;  } `
+
+2.Con el código Hexadecimal, con 6 digitos, 2 para el rojo, 2 para el verde y 2 para el azul: 
+
+`h1{ color:#FF0000;  } `
+
+3.Con el código rgb (Red, green, blue): 
+
+`h1{ color: rgb(255, 0, 0);  } `
+
+4.Con rgba(Red,Green,Blue,Alfa) el alfa lo usamos para hacer transparentes nuestros fondos:
+
+`h1{ color: rgba(255, 0, 0, 1);  } `
+
+Hay muchos programas que podemos usar para extraer el código de color yo les recomiendo:
+
+[Sip para mac](https://itunes.apple.com/us/app/sip/id507257563?mt=12)
+
+[Colorzilla (extensión de chrome)](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+Para sacar paletas de colores cool:
+
+https://color.adobe.com/
+
+http://www.colourlovers.com/
+
+http://app.coolors.co/3f7cac-95afba-bdc4a7-d5e1a3-e2f89c
+
+
+
+
+
 
