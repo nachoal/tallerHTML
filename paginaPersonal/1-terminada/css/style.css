@@ -1,0 +1,68 @@
+body {
+  
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  
+  background: url(../images/fondo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  
+}
+
+
+
+.container {
+  width: 500px;
+  margin: 40px;
+  background: #332F3E;
+  background: rgba(51,47,62,0.9);
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  
+  
+
+ 
+  
+   
+ 
+           }
+
+
+  .bodyCopy{
+  
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.imagenes {
+	
+	width: 40px;
+}
+
+a {
+	
+	text-decoration: none;
+	color: #4DB788;
+
+}
+
+h1 {
+	margin-bottom: -30px;
+  
+  }
+
+
+
+/*
+
+Selector de id:     #
+Selector de clase:  .
+
+margin afuera del elemento
+padding adentro del elemento
+ */

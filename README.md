@@ -107,7 +107,7 @@ Margin tiene 4 parámetros (top, right, bottom, left) es decir:
 
 `.contanier{ margin-top: 20px; margin-right: 40px; margin-bottom: 20px; margin-left: 40px;  } `
 
-Lo podemos acortar usando:
+Lo podemos acortar usando el shorthand:
 
 `.contanier{ margin: 20 40 20 40  } `
 
