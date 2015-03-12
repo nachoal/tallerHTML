@@ -1,7 +1,7 @@
 # tallerHTML
 Taller de HTML, CSS y Javascript
 
-###Tags usadas en HTML
+####HTML
 `<!DOCTYPE html>` esta tag no es de HTML pero la tenemos que usar para que el navegador sepa que tipo de documento esperar.
 
 `<html></html>` Tag que indica que todo lo que está adentro de ella es HTML.
@@ -22,12 +22,18 @@ Taller de HTML, CSS y Javascript
 
 `<img src="" alt="">` Es para insertar una imagen dentro del documento y es la primer tag que vemos que se cierra sola (self closing)
 
-`<li></li>` (List Item) Se usa para indicar cada elemento de la lista
-
-
 `<div></div>` Significa division y es para darle formato o estilo a un bloque (block) del documento
 
 `<span></span>` No tiene un significado en específico pero se usa como div, para dar formato pero en una línea (inline) del documento
 
+
+####CSS
+
+CSS (Cascading Style Sheets) es el lenguaje que usamos para darle estilo a nuestro documento y tiene un formato un poco diferente a HTML pero lo podemos entender facilmente. 
+
+Hay 3 formas de implementarlo:
+*Usando el atributo style en nuestros elementos dentro del HTML
+*Haciendo uso de la tag `<style></style>` dentro de nuestro `<head></head>` e insertando nuestros estilos ahí
+*Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` 
 
 
