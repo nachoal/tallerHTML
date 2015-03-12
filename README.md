@@ -56,7 +56,7 @@ Selectores de id: Se usa un signo de gato y se aplicará al id, ejemplo:
 
 `#importante{font-size: 60px;}`
 
-Las clases se pueden repetir en todo el documento, en cambio, por cada id solo puede haber un elemento.
+Las clases se pueden repetir en todo el documento, en cambio, por cada id solo puede haber un elemento con ese id.
 
 #####Colores
 
@@ -91,6 +91,17 @@ https://color.adobe.com/
 http://www.colourlovers.com/
 
 http://app.coolors.co/3f7cac-95afba-bdc4a7-d5e1a3-e2f89c
+
+
+#####Margenes y espacios
+
+Para separar los elementos, centrarlos y acomodarlos podemos usar la propiedad Margin y Padding
+
+![contenido](http://www.spsbaumann.com/uploads/5/1/3/9/5139232/1104839_orig.png)
+
+**Margin** es el espacio que dejamos **afuera** del elemento
+
+**Padding** es el espacio que dejamos **adentro** 
 
 
 
