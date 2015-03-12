@@ -33,10 +33,10 @@ CSS (Cascading Style Sheets) es el lenguaje que usamos para darle estilo a nuest
 
 Hay 3 formas de implementarlo:
 
-*Usando el atributo style en nuestros elementos dentro del HTML
+1.Usando el atributo style en nuestros elementos dentro del HTML
 
-*Haciendo uso de la tag `<style></style>` dentro de nuestro `<head></head>` e insertando nuestros estilos ahí
+2.Haciendo uso de la tag `<style></style>` dentro de nuestro `<head></head>` e insertando nuestros estilos ahí
 
-*Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` 
+3.Haciendo una hoja de estilos separada con terminacion .css e importandola con`<link rel="stylesheet" type="text/css" href="">` 
 
 
